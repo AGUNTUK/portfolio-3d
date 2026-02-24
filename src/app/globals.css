@@ -2,6 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
+/* Hide default cursor on devices with hover support */
+@media (hover: hover) and (pointer: fine) {
+    * {
+        cursor: none !important;
+    }
+}
+
 :root {
     /* Cinematic Dark Theme */
     --clay-bg: #0a0a0f;

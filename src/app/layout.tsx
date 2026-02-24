@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next'
 import { Inter, Space_Grotesk } from 'next/font/google'
 import Footer from '@/components/ui/Footer'
+import CursorEffect from '@/components/ui/CursorEffect'
 import './globals.css'
 
 const inter = Inter({
@@ -139,6 +140,7 @@ export default function RootLayout({
                 />
             </head>
             <body className={`${inter.variable} ${spaceGrotesk.variable} font-sans antialiased`}>
+                <CursorEffect />
                 {children}
                 <Footer />
             </body>
