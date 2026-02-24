@@ -1,0 +1,103 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About",
+        "skills": "Skills",
+        "projects": "Projects",
+        "experience": "Experience",
+        "testimonials": "Testimonials",
+        "blog": "Blog",
+        "contact": "Contact"
+    },
+    "hero": {
+        "greeting": "Hello, I'm",
+        "title": "Full Stack Web Developer",
+        "description": "Focused on building modern, fast, and user-friendly web experiences. Passionate about creating beautiful, functional, and scalable solutions.",
+        "cta": {
+            "primary": "View My Work",
+            "secondary": "Contact Me"
+        }
+    },
+    "about": {
+        "title": "About Me",
+        "subtitle": "Full Stack Web Developer",
+        "description": "I'm a passionate full stack developer with 6+ years of experience building modern web applications. I specialize in React, Next.js, Node.js, and TypeScript.",
+        "skills": "Skills",
+        "technologies": "Technologies"
+    },
+    "skills": {
+        "title": "Skills & Expertise",
+        "subtitle": "Technologies I work with"
+    },
+    "projects": {
+        "title": "Featured Projects",
+        "subtitle": "A selection of my recent work",
+        "viewProject": "View Project",
+        "viewCode": "View Code",
+        "filter": {
+            "all": "All",
+            "featured": "Featured"
+        }
+    },
+    "experience": {
+        "title": "Work Experience",
+        "subtitle": "My professional journey"
+    },
+    "testimonials": {
+        "title": "Client Testimonials",
+        "subtitle": "What people say about working with me"
+    },
+    "blog": {
+        "title": "Latest Articles",
+        "subtitle": "Thoughts, tutorials, and insights on web development and design",
+        "readMore": "Read More",
+        "readTime": "min read"
+    },
+    "contact": {
+        "title": "Get In Touch",
+        "subtitle": "Have a project in mind or want to collaborate? I'd love to hear from you!",
+        "form": {
+            "name": "Name",
+            "email": "Email",
+            "subject": "Subject",
+            "message": "Message",
+            "submit": "Send Message",
+            "sending": "Sending...",
+            "success": "Message Sent!",
+            "error": "Failed to send message"
+        },
+        "info": {
+            "title": "Contact Info",
+            "email": "Email",
+            "phone": "Phone",
+            "availability": "Availability",
+            "openForFreelance": "Open for freelance"
+        },
+        "social": {
+            "title": "Connect With Me"
+        },
+        "resume": {
+            "title": "Looking for a full-time developer?",
+            "button": "Download Resume"
+        }
+    },
+    "footer": {
+        "copyright": "Built with ❤️ using Next.js, Three.js & Framer Motion"
+    },
+    "404": {
+        "title": "Page Not Found",
+        "description": "Oops! The page you're looking for seems to have drifted into another dimension. Let's get you back on track.",
+        "backHome": "Back to Home",
+        "viewProjects": "View Projects"
+    },
+    "resume": {
+        "title": "Resume",
+        "download": "Download PDF",
+        "print": "Print Resume",
+        "summary": "Professional Summary",
+        "skills": "Technical Skills",
+        "experience": "Work Experience",
+        "education": "Education",
+        "certifications": "Certifications"
+    }
+}
