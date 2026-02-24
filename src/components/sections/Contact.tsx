@@ -370,20 +370,6 @@ export default function Contact() {
                     </div>
                 </motion.div>
             </div>
-
-            {/* Footer */}
-            <motion.footer
-                className="mt-12 sm:mt-16 md:mt-20 py-6 sm:py-8 border-t border-clay-shadow/20"
-                initial={{ opacity: 0 }}
-                animate={isInView ? { opacity: 1 } : {}}
-                transition={{ delay: 0.8 }}
-            >
-                <div className="max-w-6xl mx-auto px-4 sm:px-6 text-center">
-                    <p className="text-text-muted text-xs sm:text-sm">
-                        © {new Date().getFullYear()} Sohel Rana. Built with ❤️ using Next.js, Three.js & Framer Motion.
-                    </p>
-                </div>
-            </motion.footer>
         </section>
     )
 }
