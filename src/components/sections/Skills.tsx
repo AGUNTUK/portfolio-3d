@@ -198,7 +198,7 @@ export default function Skills() {
                                             <motion.div
                                                 className="w-10 h-10 sm:w-12 sm:h-12 md:w-16 md:h-16 mx-auto mb-2 sm:mb-3 md:mb-4 rounded-full flex items-center justify-center"
                                                 style={{
-                                                    background: `linear-gradient(145deg, ${skillCategories[activeCategory].color}, ${skillCategories[activeCategory].color}dd)`,
+                                                    background: `linear-gradient(145deg, #000000, #1a1a1a)`,
                                                 }}
                                                 whileHover={{ rotate: 360 }}
                                                 transition={{ duration: 0.5 }}
